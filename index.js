@@ -21,3 +21,5 @@ if (isValid) {
 alert('Registration successful!'); document.getElementById('registrationForm').reset();
 }
 }
+
+
